@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5aab846-096f-4ea6-be9a-eb2a06da9f0f" name="Default Changelist" comment="" />
+    <list default="true" id="b5aab846-096f-4ea6-be9a-eb2a06da9f0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/People/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/People/Dealership.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZwMG6zIyYOE2YgD9RXRdrCTRlb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -172,22 +182,22 @@
       <screen x="-265" y="-1057" width="1920" height="1057" />
     </state>
     <state x="433" y="-775" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585748056566" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585751448293">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585751477888">
       <screen x="-265" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751448293" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585751448292">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751477888" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585751477887">
       <screen x="-265" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751448292" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585751448291">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751477887" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585751477887">
       <screen x="-265" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751448291" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585751448292">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751477887" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585751477888">
       <screen x="-265" y="-1057" width="1920" height="1057" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751448292" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-265.-1057.1920.1057/0.23.1440.877@-265.-1057.1920.1057" timestamp="1585751477888" />
     <state x="204" y="-890" key="SettingsEditor" timestamp="1585748774798">
       <screen x="-265" y="-1057" width="1920" height="1057" />
     </state>
